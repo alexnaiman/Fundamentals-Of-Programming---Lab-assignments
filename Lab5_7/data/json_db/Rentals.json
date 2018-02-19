@@ -1,0 +1,11 @@
+[
+    {
+        "_ObjId__id": 1,
+        "_Rental__clientId": 1,
+        "_Rental__dueDate": "2018-10-10",
+        "_Rental__id": 1,
+        "_Rental__movieId": 1,
+        "_Rental__rentedDate": "2018-02-19",
+        "_Rental__returnedDate": -1
+    }
+]
